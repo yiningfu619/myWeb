@@ -2,8 +2,27 @@ name: "Yining's Website"
 navbar:
   title: "Yining's Website"
   left:
-    - text: "Home"
+    - text: Home
       href: index.html
-    - text: "About"
-      href: about.html
+      icon: fa-home
+    - text: Projects
+      href: projects.html
+      icon: fa-computer
+    - text: CV
+      href: files/cv_full.pdf
+      icon: fa-paperclip
+    
+  right:
+    - href: https://github.com/yiningfu619
+      icon: fa-github
+    - href: https://www.linkedin.com/in/yining-fu-abc2025/
+      icon: fa-linkedin
+      
 output_dir: docs
+output:
+  html_document:
+    theme: yeti
+    type: inverse
+    css: style.css
+    includes: 
+      in_header: header.html

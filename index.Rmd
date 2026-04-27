@@ -1,9 +1,25 @@
 ---
-title: "My Website"
+title: ""
 ---
 
-Hello, Website!
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+::: columns
+::: {.column width="50%" style="text-align: center;"}
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+```{r, echo=FALSE, fig.align='center', out.width='60%'}
+knitr::include_graphics("images/profile.png")
+```
+
+### Yining (Carina) Fu
+
+:::
+
+::: {.column width="50%" style="text-align: left;"}
+
+Yining Fu is a statistics and biostatistics professional with academic training from North Carolina State University and Emory University. She holds a bachelor’s degree in Statistics with a minor in Economics and completed her graduate studies in Biostatistics at Emory University. Her background combines strong quantitative training with practical experience in data analysis, statistical modeling, and research.
+
+Her technical skills include **Python, R, SAS, SQL, and Java**, with experience in data cleaning, hypothesis testing, regression analysis, machine learning, and A/B testing. She is also proficient in **Excel, PowerPoint, and Tableau** for data analysis, visualization, and communication.
+
+Yining is especially interested in using data to support decision-making and turn complex results into clear, actionable insights. She brings a detail-oriented and analytical approach to problem solving, with the ability to work across both research and applied business contexts. Outside of work, she enjoys singing and baking.
+
+:::

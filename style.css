@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: 'Lato';
+}
+
+/* Default link color */
+a {
+  color: #2C7BE5;  /* pick your favorite color for links */
+  text-decoration: none;
+}
+
+/* Hover state */
+a:hover {
+  color: #1A5BB8;  /* pick your favorite color for links when mouse hovers */
+  text-decoration: underline;
+}

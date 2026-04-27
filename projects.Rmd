@@ -1,0 +1,31 @@
+---
+title: "Projects"
+---
+
+<div class="row">
+
+<div class="col-sm-6">
+<a href="https://github.com/yiningfu619/Final_project" class="project-link">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Obesity Levels Analysis</h3>
+</div>
+<div class="panel-body">
+<p>A Docker-Based obesity levels analysis project.</p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-sm-6">
+<a href="https://yiningfu619.github.io/tirsAnalysis/" class="project-link">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">TIRS Analysis</h3>
+</div>
+<div class="panel-body">
+<p>An interactive dashboard for Spatial–Temporal Dynamics of Aedes-Borne Viruses and Targeted Indoor Residual Spraying (TIRS) Effectiveness in Mérida, 2023.</p>
+</div>
+</div>
+</a>
+</div>
+</div>
