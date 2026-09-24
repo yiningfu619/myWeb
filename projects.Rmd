@@ -29,3 +29,18 @@ title: "Projects"
 </a>
 </div>
 </div>
+
+<div class="row">
+<div class="col-sm-6">
+<a href="https://yiningfu619.github.io/AgencyScore/" class="project-link">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">AgencyScore</h3>
+</div>
+<div class="panel-body">
+<p>Built a web-based tracking system to monitor staffing agency performance, labor-hour completion, and worker retention. Used turnover data to guide targeted training efforts, reducing contract worker turnover by 25% within three months.</p>
+</div>
+</div>
+</a>
+</div>
+</div>
